@@ -1,0 +1,13 @@
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\bin\Debug\netcoreapp3.1\FindNumber.exe
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\bin\Debug\netcoreapp3.1\FindNumber.deps.json
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\bin\Debug\netcoreapp3.1\FindNumber.runtimeconfig.json
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\bin\Debug\netcoreapp3.1\FindNumber.runtimeconfig.dev.json
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\bin\Debug\netcoreapp3.1\FindNumber.dll
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\bin\Debug\netcoreapp3.1\FindNumber.pdb
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\obj\Debug\netcoreapp3.1\FindNumber.csprojAssemblyReference.cache
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\obj\Debug\netcoreapp3.1\FindNumber.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\obj\Debug\netcoreapp3.1\FindNumber.AssemblyInfoInputs.cache
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\obj\Debug\netcoreapp3.1\FindNumber.AssemblyInfo.cs
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\obj\Debug\netcoreapp3.1\FindNumber.dll
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\obj\Debug\netcoreapp3.1\FindNumber.pdb
+C:\Users\Adrien\Desktop\C#\FindNumber\FindNumber\obj\Debug\netcoreapp3.1\FindNumber.genruntimeconfig.cache
